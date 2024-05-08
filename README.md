@@ -1,2 +1,2 @@
 # git-demo
-git 
+git demo session repo
